@@ -30,16 +30,3 @@ It covers both **classic interview problems** and **modern concurrency utilities
 - **CompletableFuture** → Async tasks with callbacks.
 - **thenCompose() chaining** → Execute dependent async tasks.
 
----
-
-## 📂 Project Structure
-
-multithreading-project/
-│── basic/
-│── synchronization/
-│── concurrency-utils/
-│── problems/
-│── advanced/
-│── README.md
-
-
